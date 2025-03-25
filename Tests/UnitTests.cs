@@ -28,6 +28,7 @@ public class Addition
 	}
 }
 
+[TestClass]
 public class Subtraction
 {
     [TestMethod]
@@ -55,6 +56,7 @@ public class Subtraction
     }
 }
 
+[TestClass]
 public class Multiplication
 {
     [TestMethod]
@@ -82,6 +84,7 @@ public class Multiplication
     }
 }
 
+[TestClass]
 public class Division
 {
     [TestMethod]
@@ -109,6 +112,7 @@ public class Division
     }
 }
 
+[TestClass]
 public class Power
 {
     [TestMethod]
